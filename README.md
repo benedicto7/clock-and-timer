@@ -1,9 +1,21 @@
-# Getting Started with Create React App
+# Clock and Timer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+In this project, I decided to code my own clock and timer countdown. This app includes a clock and a timer countdown, which are the two main features, a date, and increments, decrements, start, stop, and reset buttons to control the timer countdown. This app also includes some basic CSS styling such as colors and font sizes.
+
+## Requirements
+* React.js
+
+## Instructions
+1. Download all files.
+2. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Example of Project
+![Project Example](https://user-images.githubusercontent.com/90052277/185558786-cd488f29-2a83-4bdb-bcca-522310d4e9e0.png)
+
+https://user-images.githubusercontent.com/90052277/185802729-0b900cf9-c3aa-4d74-9750-e8cc99666496.mp4
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
